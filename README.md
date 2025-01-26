@@ -59,10 +59,9 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      
-    </td>
+    
   </tr>
   <tr>
     <td width="50%">
