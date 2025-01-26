@@ -61,7 +61,7 @@
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmlkarablt&" alt="kmlkarablt" /></p>
+      
     </td>
   </tr>
   <tr>
