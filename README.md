@@ -17,10 +17,11 @@
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+<br />![Skills_Animation_Dark](https://github.com/user-attachments/assets/c53e3df9-49bc-4225-b561-c4ae874eaaa8)
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
+
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
