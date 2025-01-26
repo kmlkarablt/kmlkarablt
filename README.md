@@ -111,5 +111,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmlkarablt&show_icons=true&locale=en&layout=compact" alt="kmlkarablt" /></p>
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<picture>
+  <source
+    srcset="https://readme-daily-quotes.vercel.app/api?theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-daily-quotes.vercel.app/api?theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" />
+</picture>
