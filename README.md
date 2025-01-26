@@ -59,9 +59,12 @@
         </a>
       </p>
     </td>
-    
+    <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-    
+      <p align="center">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kmlkarablt&theme=nightowl" alt="GitHub Streak" /></a>
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
