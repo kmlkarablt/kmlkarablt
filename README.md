@@ -112,4 +112,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmlkarablt&show_icons=true&locale=en&layout=compact" alt="kmlkarablt" /></p>
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
